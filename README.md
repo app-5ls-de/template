@@ -8,5 +8,8 @@
 - Enforce HTTPS
 
 # Tools
-- https://www.svgrepo.com/page/licensing
-  - but have an eye on the licence of each svg
+- [SVG Repo](https://www.svgrepo.com)
+  - but have an eye on the [licence](https://www.svgrepo.com/page/licensing) of each svg
+
+# Best Practises
+- [Semantic Versioning](https://semver.org/)
