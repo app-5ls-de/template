@@ -1,3 +1,5 @@
 exclude:
+  - CNAME
+  - LICENSE
   - README.md
   - description.txt
