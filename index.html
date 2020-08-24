@@ -2,12 +2,40 @@
 <html lang="en">
 
 <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="A Template for generating new tools @app.5ls.de">
+    <meta name="author" content="Patrick Haußmann">
+    <meta name="web_author" content="Patrick Haußmann">
+    <link rel="author" href="https://patrickhaussmann.de/" />
+    <meta name="language" content="en">
     <title>Template</title>
+    
+    <link rel="stylesheet" href="/styles.css">
 
 </head>
 
 <body>
 
+    
+    <script src="/script.js"></script>
+    <script>
+        if ("serviceWorker" in navigator) {
+            if (navigator.serviceWorker.controller) {
+                console.log("[ServiceWorker] active service worker found");
+            } else {
+                // Register the service worker
+                navigator.serviceWorker
+                    .register("/service-worker.js", {
+                        scope: "/"
+                    })
+                    .then(function (reg) {
+                        console.log('[ServiceWorker] Service worker registered.', reg);
+                    });
+            }
+        }
+    </script>
 </body>
 
 </html>
