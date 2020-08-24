@@ -9,7 +9,18 @@ const PRECACHE_URLS = [
   '/script.js',
   '/style.css',
   '/manifest.json',
-  '/favicon.ico'
+  '/favicon.ico',
+  '/icons/android-chrome-192x192.png',
+  '/icons/android-chrome-512x512.png',
+  '/icons/maskable_icon.png',
+  '/icons/apple-touch-icon.png',
+  '/icons/favicon-32x32.png',
+  '/icons/favicon-16x16.png',
+  '/icons/safari-pinned-tab.svg',
+  '/icons/browserconfig.xml',
+  '/icons/mstile-70x70.png',
+  '/icons/mstile-150x150.png',
+  '/icons/mstile-310x310.png'
 ];
 
 // The install handler takes care of precaching the resources we always need.
