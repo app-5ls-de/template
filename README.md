@@ -25,13 +25,13 @@
 {
   …
   "icons": [
-    {…},
-        {
-            "src": "/icons/maskable_icon.png",
-            "sizes": "1024x1024",
-            "type": "image/png",
-            "purpose": "any maskable"
-        }
+      {…},
+      {
+          "src": "/icons/maskable_icon.png",
+          "sizes": "1024x1024",
+          "type": "image/png",
+          "purpose": "any maskable"
+      }
   ]
   …
 }
