@@ -12,7 +12,7 @@
   
   - [create favicons](https://realfavicongenerator.net/)
     - "Favicon for iOS - Web Clip": Add a solid #ffffff
-    - "Favicon for Android Chrome": Add a solid #ffffff, App name, Options -> Start URL 
+    - "Favicon for Android Chrome": Add a solid #ffffff, App name, Options -> Start URL -> "/"
     - "Windows Metro": Use this color #960e4d, Use a white silhouette, Windows 8.1 and 10 / IE 11 and Edge -> {Small square icon, Medium square icon, Big square icon}
     - "macOS Safari": Theme color #960e4d
     - "Favicon Generator Options": Path -> "/icons", App name -> Specific app name
