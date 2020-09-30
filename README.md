@@ -36,6 +36,7 @@
   …
 }
 ```
+- add to manifest   ```  "description" : "A Template for generating new tools @app.5ls.de", ```
 
 
 
