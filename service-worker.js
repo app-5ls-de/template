@@ -7,6 +7,7 @@ const RUNTIME = 'runtime';
 const PRECACHE_URLS = [
   '/',
   '/index.html',
+  '/404.html',
   '/script.js',
   '/style.css',
   '/manifest.json',
