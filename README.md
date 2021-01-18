@@ -20,7 +20,7 @@
     - "Favicon Generator Options": Path -> "/icons", App name -> Specific app name
   - save favicon.ico,icon.svg,manifest.json in root directory
   - copy meta tags in index.html 
-    - change site.webmanifest -> manifest.json
+    - change "/icons/site.webmanifest" -> "/manifest.json"
     - remove folder for "/icons/favicon.ico"
   - [create maskable icon](https://maskable.app/editor) (in Chrome)
     - add Backgroudcolor: #ffffff
