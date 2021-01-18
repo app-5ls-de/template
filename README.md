@@ -5,8 +5,9 @@
 ---
 
 # Foreach new Repo:
+- Enable Github Pages with custom domain "*.app.5ls.de"
 - Enforce HTTPS
-- link in about with "https://"
+- Link in about with "https://"
 - Favicons:
   - main SVG as "icon.svg"
     - [SVG Repo](https://www.svgrepo.com) *(but have an eye on the [licence](https://www.svgrepo.com/page/licensing) of each svg)*
