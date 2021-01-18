@@ -6,6 +6,7 @@
 
 # Foreach new Repo:
 - Enforce HTTPS
+- link in about with "https://"
 - Favicons:
   - main SVG as "icon.svg"
     - [SVG Repo](https://www.svgrepo.com) *(but have an eye on the [licence](https://www.svgrepo.com/page/licensing) of each svg)*
