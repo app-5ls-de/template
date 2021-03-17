@@ -42,8 +42,7 @@
 }
 ```
 - add to manifest   ```  "description" : "A Template for generating new tools @app.5ls.de", ```
-
-
+- commit message ```used app-5ls-de/template@v1.0.0```
 
 # Best Practises
 - [Semantic Versioning](https://semver.org/)
